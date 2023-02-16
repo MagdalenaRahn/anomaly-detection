@@ -1,0 +1,1 @@
+This respository contains lessons and exercises on anomaly detection, at Codeup, Noether cohort, data science programme, February 2023.
